@@ -1,0 +1,23 @@
+.backGround {
+    background-color: white;
+}
+
+.container {
+    display: flex;
+    font-weight: 500;
+    align-items: center;
+    margin: auto;
+    height: 40px;
+    width: 80%;
+    
+}
+
+.flex {
+    padding-right: 16px;
+    padding-left: 16px;
+}
+
+.padding {
+    padding-right: 14px;
+}
+
