@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Dell XPS 13 (9310), 13,4- inch Laptop",
+      "manufacturer": "By Dell",
+      "price": "1.369.00",
+      "rating": "4.5/5",
+      "image": "laptop.png"
+
+    },
+    {
+      "id": 2,
+      "name": "Canon TS6420 All-In-One Wireless Printer, Black",
+      "manufacturer": "By Canon",
+      "price": 129.00,
+      "rating": 4,
+      "image": "printer.png"
+
+    },
+    {
+      "id": 3,
+      "name": "Linksys AX1800 Wi-Fi 6 Router",
+      "manufacturer": "By Linksys",
+      "price": 119.99,
+      "rating": 5,
+      "image": "router.png"
+
+    },
+    {
+      "id": 4,
+      "name": "Samsung 65-Inch Class Crystal Smart TV",
+      "manufacturer": "By Samsung",
+      "price": 747.99,
+      "rating": 5,
+      "image": "tv.png"
+ 
+    },
+
+    {
+      "id": 5,
+      "name": "SandDisk 128GB Extreme pro SDXC UHS-I Card",
+      "manufacturer": "By SanDisk",
+      "price": 29.99,
+      "rating": 5,
+      "image": "sd-card.png"
+    }
+  ]
+}
